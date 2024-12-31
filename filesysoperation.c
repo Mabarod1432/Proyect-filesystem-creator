@@ -1,7 +1,12 @@
-// This is the file that you will change to add more project types.
-// Also you can add more subtypes to the existing project types.
-// 
+//this is the code of the binary of the project 
+//remember this will only work on linux on a x86 system
+// if you want to change the code you can do it in the main.c file
+// also you can use this file as a backup for the original file
+
 // liscence: GNU GPL v3
+
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
