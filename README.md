@@ -24,10 +24,10 @@ Here i made an C script that helps me make a filesystem for a project just in on
           |
           |
           |-- Dev
-          | -- node ( the command is node but its for node js projects)
+          | -- node ( the command is node but its for node js projects )
           | -- php
           | -- Pygame
-          | -- Pybasic ( the command is Pybasic but its for basic python projects
+          | -- Pybasic ( the command is Pybasic but its for basic python projects )
 
 
 
